@@ -9,23 +9,30 @@ I like working on projects where things make sense both technically and from a u
 
 ### 🛠 Tech Stack
 
-## 🛠 Tech Stack
+**Frontend**
+- HTML, CSS, JavaScript
+- TypeScript
+- Vue.js
+- Tailwind CSS
 
-| Frontend | Backend |
-|---------|---------|
-| HTML, CSS, JavaScript | PHP |
-| TypeScript | Node.js |
-| Vue.js | REST APIs |
-| Tailwind CSS | |
+**Backend**
+- PHP
+- Node.js (basic)
+- REST APIs (basic)
 
-| Databases | Tools & Other |
-|-----------|---------------|
-| MySQL | Git & GitHub |
-| MongoDB | Figma |
-| Firebase | |
+**Databases**
+- MySQL
+- MongoDB
+- Firebase
+
+**Tools & Other**
+- Git & GitHub
+- Figma (used mainly for UX understanding and developer handoff)
+- AI-assisted development
+
 
 ---
 
 ### 📫 Contact
-- Email: your@email.com  
-- LinkedIn: your-linkedin
+- Email: janceova.mi@gmail.com 
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/michaela-janceov%C3%A1-26b5022aa/)
