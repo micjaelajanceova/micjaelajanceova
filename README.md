@@ -9,25 +9,20 @@ I like working on projects where things make sense both technically and from a u
 
 ### 🛠 Tech Stack
 
-**Frontend**
-- HTML, CSS, JavaScript
-- TypeScript
-- Vue.js
-- Tailwind CSS
+## 🛠 Tech Stack
 
-**Backend**
-- PHP
-- Node.js
-- REST APIs
+| Frontend | Backend |
+|---------|---------|
+| HTML, CSS, JavaScript | PHP |
+| TypeScript | Node.js |
+| Vue.js | REST APIs |
+| Tailwind CSS | |
 
-**Databases**
-- MySQL
-- MongoDB
-- Firebase
-
-**Tools & Other**
-- Git & GitHub
-- Figma
+| Databases | Tools & Other |
+|-----------|---------------|
+| MySQL | Git & GitHub |
+| MongoDB | Figma |
+| Firebase | |
 
 ---
 
